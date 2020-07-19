@@ -1,5 +1,5 @@
 
-@cheeaun's life
+@NAS's life
 ===============
 
 - 2016	NAS & RL - Neural Architecture Search with Reinforcement Learning
