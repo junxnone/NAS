@@ -2,8 +2,8 @@
 @NAS's life
 ===============
 
-- 2016	NAS & RL - Neural Architecture Search with Reinforcement Learning
-- 2017	NASNet - Learning Transferable Architectures for Scalable Image Recognition
-- 2017	PNAS - Progressive Neural Architecture Search
-- 2018	ENAS - Efficient Neural Architecture Search via Parameter Sharing
-- 2019	DARTS: Differentiable Architecture Search
+- 2016 NAS & RL - [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
+- 2017 NASNet - [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
+- 2017 PNAS - [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559)
+- 2018 ENAS - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)
+- 2019 [DARTS: Differentiable Architecture Search](https://arxiv.org/pdf/1806.09055.pdf)
