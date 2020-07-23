@@ -1,5 +1,5 @@
 
-@NAS's Life
+@History of NAS
 ===============
 
 - 11/2016 - NAS & RL - [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
