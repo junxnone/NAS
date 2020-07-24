@@ -11,7 +11,7 @@
 - 12/2018 - [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/pdf/1812.00332.pdf)
 
 ---------------------
-Segmentation with NAS
+2016 Segmentation with NAS
 
 - 10/2018 [Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells](https://arxiv.org/abs/1810.10804) [Code - nas-segm-pytorch](https://github.com/DrSleep/nas-segm-pytorch)
 - 01/2019 [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) -- [Code](https://github.com/NoamRosenberg/autodeeplab)
